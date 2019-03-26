@@ -1,0 +1,4 @@
+#ifndef SERVER_SIDE_SPLIT_H
+#define SERVER_SIDE_SPLIT_H
+
+#endif //SERVER_SIDE_SPLIT_H
